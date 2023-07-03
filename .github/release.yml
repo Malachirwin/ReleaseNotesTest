@@ -5,89 +5,95 @@ changelog:
     - title: Core Breaking Changes
       labels:
         - Breaking Change
-    - title: Core New Features
-      labels:
-        - New Feature
-    - title: Core Improvements
-      labels:
-        - Improvement
-    - title: Core Bug Fixes
-      labels:
-        - Bug Fix
     - title: Core Documentation Changes
       labels:
         - Documentation
-    - title: Core Unlabeled Changes (please categorize these)
-      labels:
-        - '*'
-        - L.CAD Core
+    # - title: Core Breaking Changes
+    #   labels:
+    #     - Breaking Change
+    # - title: Core New Features
+    #   labels:
+    #     - New Feature
+    # - title: Core Improvements
+    #   labels:
+    #     - Improvement
+    # - title: Core Bug Fixes
+    #   labels:
+    #     - Bug Fix
+    # - title: Core Documentation Changes
+    #   labels:
+    #     - Documentation
+    # - title: Core Unlabeled Changes (please categorize these)
+    #   labels:
+    #     - '*'
+    #     - L.CAD Core
 
-      exclude:
-        labels:
-          - Breaking Change
-          - New Feature
-          - Improvement
-          - Bug Fixes
-          - Documentation
-          - L.CAD UI
-          - L.CAD Skin
+    #   exclude:
+    #     labels:
+    #       - Breaking Change
+    #       - New Feature
+    #       - Improvement
+    #       - Bug Fixes
+    #       - Documentation
+    #       - L.CAD UI
+    #       - L.CAD Skin
 
-    - title: UI Breaking Changes
-      labels:
-        - Breaking Change
-    - title: UI New Features
-      labels:
-        - New Feature
-    - title: UI Improvements
-      labels:
-        - Improvement
-    - title: UI Bug Fixes
-      labels:
-        - Bug Fix
-    - title: UI Documentation Changes
-      labels:
-        - Documentation
-    - title: UI Unlabeled Changes (please categorize these)
-      labels:
-        - '*'
-        - L.CAD UI
+    # - title: UI Breaking Changes
+    #   labels:
+    #     - Breaking Change
+    # - title: UI New Features
+    #   labels:
+    #     - New Feature
+    # - title: UI Improvements
+    #   labels:
+    #     - Improvement
+    # - title: UI Bug Fixes
+    #   labels:
+    #     - Bug Fix
+    # - title: UI Documentation Changes
+    #   labels:
+    #     - Documentation
+    # - title: UI Unlabeled Changes (please categorize these)
+    #   labels:
+    #     - '*'
+    #     - L.CAD UI
 
-      exclude:
-        labels:
-          - Breaking Change
-          - New Feature
-          - Improvement
-          - Bug Fixes
-          - Documentation
-          - L.CAD Skin
-          - L.CAD Core
+    #   exclude:
+    #     labels:
+    #       - Breaking Change
+    #       - New Feature
+    #       - Improvement
+    #       - Bug Fixes
+    #       - Documentation
+    #       - L.CAD Skin
+    #       - L.CAD Core
 
-    - title: Skin Breaking Changes
-      labels:
-        - Breaking Change
-    - title: Skin New Features
-      labels:
-        - New Feature
-    - title: Skin Improvements
-      labels:
-        - Improvement
-        - L.CAD Skin
-    - title: Skin Bug Fixes
-      labels:
-        - Bug Fix
-    - title: Skin Documentation Changes
-      labels:
-        - Documentation
-    - title: Skin Unlabeled Changes (please categorize these)
-      labels:
-        - '*'
+    # - title: Skin Breaking Changes
+    #   labels:
+    #     - Breaking Change
+    # - title: Skin New Features
+    #   labels:
+    #     - New Feature
+    # - title: Skin Improvements
+    #   labels:
+    #     - Improvement
+    #     - L.CAD Skin
+    # - title: Skin Bug Fixes
+    #   labels:
+    #     - Bug Fix
+    # - title: Skin Documentation Changes
+    #   labels:
+    #     - Documentation
+    # - title: Skin Unlabeled Changes (please categorize these)
+    #   labels:
+    #     - '*'
 
-      exclude:
-        labels:
-          - Breaking Change
-          - New Feature
-          - Improvement
-          - Bug Fixes
-          - Documentation
-          - L.CAD UI
-          - L.CAD Core
+    #   exclude:
+    #     labels:
+    #       - Breaking Change
+    #       - New Feature
+    #       - Improvement
+    #       - Bug Fixes
+    #       - Documentation
+    #       - L.CAD UI
+    #       - L.CAD Core
